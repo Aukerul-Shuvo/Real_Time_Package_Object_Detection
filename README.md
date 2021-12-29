@@ -17,7 +17,7 @@ please be sure to upgrade model & weights
 
 you can check this app demo on 
 
-https://mdhasanali3.github.io/object-detection-with-yolov5-tfjs/
+https://aukerul-shuvo.github.io/Real_Time_Package_Object_Detection/
 
 
 # preview of work
