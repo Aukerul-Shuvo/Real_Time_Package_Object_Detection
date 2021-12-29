@@ -22,5 +22,4 @@ https://aukerul-shuvo.github.io/Real_Time_Package_Object_Detection/
 
 # preview of work
 
-![choose](https://user-images.githubusercontent.com/43574156/145350221-5288cd38-4d45-4cdc-8058-20f8ebb8e134.PNG)
-![bottle](https://user-images.githubusercontent.com/43574156/145350237-ef1bc37b-eac9-4e97-a3b9-3f3c6360282d.PNG)
+https://drive.google.com/drive/folders/176JhmEGUo0Kg4wIYt8ur-6uj6BdSfsWZ
